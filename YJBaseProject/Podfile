@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '8.0'
+
+target 'YJBaseProject' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for YJBaseProject
+
+pod 'Moya/RxSwift', '~> 10.0.0-beta.1'
+#reactive 编程  
+#pod 'RxSwift', '~> 4.0.0-rc.0'
+pod 'RxCocoa', '~> 4.0.0-rc.0'
+#JSON 解析
+pod 'SwiftyJSON'
+#图片加载库
+pod 'Kingfisher'
+#Json转模型
+pod 'ObjectMapper'
+#视图约束库
+pod 'SnapKit'
+pod 'MJRefresh'
+pod 'SVProgressHUD'
+end

@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Kingfisher (4.1.1)
+  - MJRefresh (3.1.14)
+  - Moya/Core (10.0.0-beta.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (10.0.0-beta.1):
+    - Moya/Core
+    - RxSwift (= 4.0.0-rc.0)
+  - ObjectMapper (3.0.0)
+  - Result (3.2.4)
+  - RxCocoa (4.0.0-rc.0):
+    - RxSwift (~> 4.0.0-rc.0)
+  - RxSwift (4.0.0-rc.0)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.2)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Kingfisher
+  - MJRefresh
+  - Moya/RxSwift (~> 10.0.0-beta.1)
+  - ObjectMapper
+  - RxCocoa (~> 4.0.0-rc.0)
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Kingfisher: 6793a473357b5dbee42b0068ef203fe8325f259e
+  MJRefresh: 6642e35b3227a5447b9fd5e17c552c90196c9859
+  Moya: 7fb3c51aa9b3fdf5ea7d9412e03b63edb9559fb3
+  ObjectMapper: 92230db59bf8f341a5c3a3cf0b9fbdde3cf0d87f
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: 62457355be73369670fbdf053a79a491552b64ed
+  RxSwift: 1dd09ceb11531c39adff4efe23556b1484e16967
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 491f470df57c037a79985d0361454f26e942e01a
+
+COCOAPODS: 1.4.0.beta.1
